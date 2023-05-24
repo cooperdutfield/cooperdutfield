@@ -67,5 +67,5 @@ Developed technical skills in SQL, which enabled me to contribute to the develop
 - Iowa State, 2022
 
 ## Contact Me
-- LinkedIn:[](https://www.linkedin.com/in/cooper-dutfield/)
+(https://www.linkedin.com/in/cooper-dutfield/)
 
