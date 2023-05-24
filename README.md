@@ -14,15 +14,11 @@ If you're passionate about technology, adventure, or just want to connect, I'd l
 
 ## Projects
 
-  Project I 
-- Description: [A concise description of your project.]
-- Technologies used: [List the technologies or programming languages involved.]
-- GitHub repository: [Provide a link to your GitHub repository.]
+  Project I - Games On Sale
+Revolutionizing the gaming space with a fully functional website that empowers users to access a comprehensive list of platforms, games, and prices during sales. Users can effortlessly discover the best deals available, ensuring they never miss out on great gaming deals and opportunities
 
-  Project II 
-- Description: [A concise description of your project.]
-- Technologies used: [List the technologies or programming languages involved.]
-- GitHub repository: [Provide a link to your GitHub repository.]
+  Project II - Boston T Reviews
+Discover and share your opinions on every station in the greater Boston area with our fully functional review site. This project was made in a  collaboration effort by a team of four, each of which contributed their expertise in full-stack development to shape the entire project. Check out the GitHub repository here.
 
 ## Skills
 - Node
