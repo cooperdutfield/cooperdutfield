@@ -1,10 +1,9 @@
-### Hi there 👋
-
 # Cooper Dutfield 
 
-## About Me
+## About Me 
 
-Hi there! I'm an adventurous soul who finds joy in exploring the great outdoors through hiking, rock climbing, and traveling to breathtaking destinations. The thrill of conquering new heights and discovering hidden paths fuels my spirit.
+ Hi there 👋 
+I'm an adventurous soul who finds joy in exploring the great outdoors through hiking, rock climbing, and traveling to breathtaking destinations. The thrill of conquering new heights and discovering hidden paths fuels my spirit.
 
 In addition to my love for outdoor adventures, I have a passion for software engineering. I'm fascinated by the ever-evolving world of technology and driven to improve myself in all possible ways. With an appetite for knowledge, I eagerly dive into new concepts and techniques, continuously expanding my skill set.
 
