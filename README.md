@@ -61,7 +61,7 @@ Contributed to IT documentation efforts, including creating user manuals, techni
 Demonstrated strong communication and interpersonal skills by effectively communicating technical information to non-technical staff and building positive relationships with team members.
 Developed technical skills in SQL, which enabled me to contribute to the development and implementation of IT solutions that increased productivity and efficiency.
 
-Education
+#Education
 
 - Associates: Iowa Central Community College, 2021
 - Iowa State, 2022
