@@ -16,6 +16,14 @@
 
 ###
 
+<h2 align="center">Professional Experience</h2>
+
+###
+
+<p align="left">Web Developer (Freelance)<br>Nov 2024 - Mar 2025<br><br>Developed custom band websites to drive brand growth and increase market sales<br>Collaborated directly with clients to translate design requirements into successful web solutions<br><br>NETS Assistant Coordinator & Software Engineer<br>University of Minnesota | Aug 2023 - Nov 2024<br><br>Coordinated technology infrastructure across 5 universities, ensuring optimal device functionality and comprehensive learning opportunities<br>Conducted quality assurance testing on systems to maintain high performance and security standards<br>Managed vendor relationships for equipment procurement and support services<br>Analyzed user feedback to drive continuous improvement initiatives<br><br>Full-stack Developer (Apprenticeship)<br>Launch Academy, Inc | Jan 2023 - Jun 2023<br><br>Completed intensive full-stack bootcamp covering modern web technologies: HTML, CSS, JavaScript, React, Node.js, Express, and MySQL<br>Implemented testing frameworks (Jest, Cypress) to ensure code quality and functionality<br>Led team projects using Agile methodologies, managing development from concept to deployment<br>Participated in technical assessments and mock interviews to strengthen professional readiness<br><br>IT Technician<br>Iowa State University | Jan 2022 - Jan 2023<br><br>Created comprehensive IT documentation including user manuals, technical specifications, and system diagrams<br>Developed SQL skills and contributed to IT solutions that increased productivity and efficiency<br>Provided technical support and training to non-technical staff members<br><br>Administrative Assistant<br>Storm Lake United | Jan 2020 - May 2021<br><br>Coordinated company events, meetings, and conferences<br>Created wireframes and prototypes for company website using Figma and Adobe XD<br>Collaborated with cross-functional teams to align design solutions with business objectives<br>Implemented goal-oriented workflows to enhance operational efficiency</p>
+
+###
+
 <h2 align="center">What I know</h2>
 
 ###
@@ -46,9 +54,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cooperdutfield/cooperdutfield/output/pacman-contribution-graph-dark.svg">
