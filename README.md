@@ -66,8 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cooperdutfield/cooperdutfield/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h2 align="center">Contact</h2>
